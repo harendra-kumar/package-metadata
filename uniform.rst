@@ -16,7 +16,7 @@ and semantics the metadata representation should be:
 
 The desire is to encourage:
 
-* all existing tools to adopt the same format
+* all existing package metadata consumers to adopt the same format
 * any new tools should reuse and extend the existing format rather than using their own
 
 Existing tools and formats
