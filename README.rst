@@ -8,11 +8,13 @@ especially the points made for and against ``.cabal``, ``.yaml`` and ``.hs`` for
 Organized summary:
 
 * `Motivation
-  <http://www.github.com/harendra-kumar/package-metadata/uniform.rst>`_
-* `Format Alternatives <http://www.github.com/harendra-kumar/package-metadata/syntax.rst>`_
+  <https://github.com/harendra-kumar/package-metadata/blob/master/uniform.rst>`_
+* `Format Alternatives
+  <https://github.com/harendra-kumar/package-metadata/blob/master/syntax.rst>`_
 
 The original mail threads were:
 
-* `technical thoughts on stack <https://mail.haskell.org/pipermail/haskell-cafe/2016-September/thread.html#124892>`_
-* `standard package format <https://mail.haskell.org/pipermail/haskell-cafe/2016-September/124912.html>`_
-
+* `technical thoughts on stack
+  <https://mail.haskell.org/pipermail/haskell-cafe/2016-September/thread.html#124892>`_
+* `standard package format
+  <https://mail.haskell.org/pipermail/haskell-cafe/2016-September/thread.html#124912>`_
